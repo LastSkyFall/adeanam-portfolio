@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/adeanam-portfolio/precache-manifest.ff3fafcc0b2688d9225f2af7dd06f745.js"
+  "/adeanam.github.io/precache-manifest.b0d3716b1f32d211b0958913be552596.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/adeanam-portfolio/index.html", {
+workbox.routing.registerNavigationRoute("/adeanam.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

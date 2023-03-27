@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/adeanam-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/adeanam-portfolio/static/js/main.91f3464c.js",
-    "static/js/787.006c5385.chunk.js": "/adeanam-portfolio/static/js/787.006c5385.chunk.js",
-    "static/media/logo.svg": "/adeanam-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/adeanam-portfolio/index.html",
-    "main.073c9b0a.css.map": "/adeanam-portfolio/static/css/main.073c9b0a.css.map",
-    "main.91f3464c.js.map": "/adeanam-portfolio/static/js/main.91f3464c.js.map",
-    "787.006c5385.chunk.js.map": "/adeanam-portfolio/static/js/787.006c5385.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.91f3464c.js"
-  ]
+  "main.css": "/adeanam-portfolio/static/css/main.bf44a063.chunk.css",
+  "main.js": "/adeanam-portfolio/static/js/main.2e9ecc1e.chunk.js",
+  "main.js.map": "/adeanam-portfolio/static/js/main.2e9ecc1e.chunk.js.map",
+  "static/js/1.3c11774c.chunk.js": "/adeanam-portfolio/static/js/1.3c11774c.chunk.js",
+  "static/js/1.3c11774c.chunk.js.map": "/adeanam-portfolio/static/js/1.3c11774c.chunk.js.map",
+  "static/js/2.6422faee.chunk.js": "/adeanam-portfolio/static/js/2.6422faee.chunk.js",
+  "static/js/2.6422faee.chunk.js.map": "/adeanam-portfolio/static/js/2.6422faee.chunk.js.map",
+  "runtime~main.js": "/adeanam-portfolio/static/js/runtime~main.2b754154.js",
+  "runtime~main.js.map": "/adeanam-portfolio/static/js/runtime~main.2b754154.js.map",
+  "static/media/logo.svg": "/adeanam-portfolio/static/media/logo.06e73328.svg",
+  "static/css/main.bf44a063.chunk.css.map": "/adeanam-portfolio/static/css/main.bf44a063.chunk.css.map",
+  "index.html": "/adeanam-portfolio/index.html",
+  "precache-manifest.ff3fafcc0b2688d9225f2af7dd06f745.js": "/adeanam-portfolio/precache-manifest.ff3fafcc0b2688d9225f2af7dd06f745.js",
+  "service-worker.js": "/adeanam-portfolio/service-worker.js"
 }
